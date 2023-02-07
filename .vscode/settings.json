@@ -1,0 +1,34 @@
+{
+    "sqltools.connections": [
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 1433,
+            "driver": "MSSQL",
+            "name": "databseconnection",
+            "database": "SainiFood",
+            "username": "sa",
+            "password": "Motherfucker123"
+        },
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 1433,
+            "driver": "MSSQL",
+            "name": "FormData",
+            "username": "sa",
+            "database": "FormData",
+            "password": "NYGiantss2026$"
+        }
+    ]
+}
